@@ -20,6 +20,6 @@ public class GameManager : MonoBehaviour
         Player.ShowPlayerCount();
     }
 
-    // Update is called once per frame
+
 
 }
